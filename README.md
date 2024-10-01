@@ -43,7 +43,12 @@ Right now, my focus is on absorbing as much as I can through:
 ## Recent Projects
 I’m currently wrapping up my **first full-stack project** as part of my studies. Stay tuned for more updates as I build up my portfolio!
 
+- [Employed - Job Board](): A full-stack app connecting job seekers with employers. Browse job listings, apply, and manage postings all in one place.
+- [Smart-Budget](): A command-line app that helps users track spending, manage finances, and generate reports, with data stored via Google Sheets.
+- [Safari Quiz](): A web game that tests your knowledge of safari animals. Identify the correct animal name from multiple-choice options and track your score.
+- [Culinary Academy](): A fictional cooking school website showcasing courses, mentors, and opportunities for users to improve their cooking skills.
+
 ## Let's Connect
-Feel free to reach out! I’d love to chat about **coding**, **development**, or anything else. Let's connect on LinkedIn and exchange some cool ideas.
+Feel free to reach out! I’m always down to talk coding, development, or anything else. Let’s connect on LinkedIn and share some solid ideas!
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/dmitrij-sazniov/)
