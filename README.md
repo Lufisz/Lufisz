@@ -43,7 +43,7 @@ Right now, my focus is on absorbing as much as I can through:
 ## Recent Projects
 I’m currently wrapping up my **first full-stack project** as part of my studies. Stay tuned for more updates as I build up my portfolio!
 
-- [Employed - Job Board](https://github.com/Dimmanzo/employed) - A full-stack app connecting job seekers with employers.
+- [Employed](https://github.com/Dimmanzo/employed) - A full-stack app connecting job seekers with employers.
 - [Smart-Budget](https://github.com/Dimmanzo/smart-budget) - A command-line app that helps users track spending
 - [Safari Quiz](https://github.com/Dimmanzo/safari-quiz) - A web game that tests your knowledge of safari animals.
 - [Culinary Academy](https://github.com/Dimmanzo/culinary-academy) - A fictional cooking school website.
