@@ -49,6 +49,6 @@ I’m currently wrapping up my **first full-stack project** as part of my studie
 - [Culinary Academy](https://github.com/Dimmanzo/culinary-academy) - A fictional cooking school website.
 
 ## Let's Connect
-Feel free to reach out! I’m always down to talk coding, development, or anything else. Let’s connect on LinkedIn and share some solid ideas!
+Feel free to reach out! I’m always down to talk coding, development, or anything else. Let’s connect on LinkedIn!
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/dmitrij-sazniov/)
