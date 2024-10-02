@@ -41,12 +41,12 @@ Right now, my focus is on absorbing as much as I can through:
 - **Physical training** – Keeping a healthy balance through regular physical training for both body and mind.
 
 ## Recent Projects
-I’m currently wrapping up my **first full-stack project** as part of my studies. Stay tuned for more updates as I build up my portfolio!
+I’m currently wrapping up my **first full-stack project** as part of my studies.
 
-- [Employed](https://github.com/Dimmanzo/employed) - A full-stack app connecting job seekers with employers.
-- [Smart-Budget](https://github.com/Dimmanzo/smart-budget) - A command-line app that helps users track spending
-- [Safari Quiz](https://github.com/Dimmanzo/safari-quiz) - A web game that tests your knowledge of safari animals.
-- [Culinary Academy](https://github.com/Dimmanzo/culinary-academy) - A fictional cooking school website.
+- [Employed](https://github.com/Dimmanzo/employed) - A user-friendly web app connecting job seekers with employers - **Python, Django, HTML5, CSS, JavaScript, PostgreSQL**
+- [Smart-Budget](https://github.com/Dimmanzo/smart-budget) - A command-line app that helps users track budgets - **Python, Google Sheets API, HTML5, CSS, JavaScript**
+- [Safari Quiz](https://github.com/Dimmanzo/safari-quiz) - A fun, web-based quiz game testing knowledge of safari animals - **HTML5, CSS, JavaScript**
+- [Culinary Academy](https://github.com/Dimmanzo/culinary-academy) - A fictional cooking school website - **HTML5, CSS, JavaScript**
 
 ## Let's Connect
 Feel free to reach out! I’m always down to talk coding, development, or anything else. Let’s connect on LinkedIn!
