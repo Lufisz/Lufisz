@@ -1,15 +1,15 @@
 # Hey there, I'm Dmitrij!
 
-I'm a **Full Stack Developer** based in Stockholm, Sweden. Currently enrolled at Code Institute, I'm passionate about building innovative digital solutions—from dynamic websites to fully functional software applications—while continuously sharpening my technical skills.
+I'm a **Full Stack Developer** based in Stockholm, Sweden. Currently, I’m enrolled at Code Institute, where I'm honing my skills by building dynamic websites and functional applications. I love finding creative digital solutions and constantly challenging myself to learn more.
 
 ## About Me
 - I'm on track to complete my **Full Stack Developer** diploma at **Code Institute**.
-- When I’m not coding, I enjoy practicing **martial arts**, mixing tunes as a **DJ**, producing music, and reading **self-development** books.
-- I’m always eager to dive into new tech stacks and push my abilities. Currently, I’m focusing on mastering **React** to boost my frontend skills.
+- When I'm not coding, I enjoy practicing martial arts, DJing, making music, and diving into self-development books.
+- I love exploring new technologies and pushing my skills further. Right now, I'm diving deep into **React** to sharpen my front-end development expertise.
 
-## What I'm Aiming For
-- **Short-term goal**: Complete my course and build a strong portfolio that showcases real-world projects.
-- **Long-term goal**: Become a developer capable of creating something impactful, with the possibility of venturing into the **business world**. 
+## My Goals
+- **Short-term goal**: Finish my course and build a portfolio that really showcases my abilities through real-world projects.
+- **Long-term goal**: Create meaningful applications and eventually explore the **business side** of tech.
 
 ## Skills
 Here's a glimpse into my technical toolkit:
@@ -34,11 +34,11 @@ Here's a glimpse into my technical toolkit:
 - **Currently learning**: 
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-## Always Learning
-Right now, my focus is on absorbing as much as I can through:
-- **Self-improvement books** – I’m all about personal growth, and these books are a huge part of that.
-- **Tech videos and tutorials** – Constantly improving my coding chops and learning new tricks.
-- **Physical training** – Keeping a healthy balance through regular physical training for both body and mind.
+## Lifelong Learner
+Right now, I'm expanding my skills by focusing on:
+- **Self-improvement books** – I’m always learning ways to grow, both personally and professionally.
+- **Tech videos and tutorials** – Constantly picking up new coding techniques and refining my existing skills.
+- **Physical training** – Keeping both my body and mind sharp with regular workouts and martial arts practice.
 
 ## Recent Projects
 I’m currently wrapping up my **first full-stack project** as part of my studies.
@@ -49,6 +49,6 @@ I’m currently wrapping up my **first full-stack project** as part of my studie
 - [Culinary Academy](https://github.com/Dimmanzo/culinary-academy) - A fictional cooking school website - **HTML5, CSS, JavaScript**
 
 ## Let's Connect
-Feel free to reach out! I’m always down to talk coding, development, or anything else. Let’s connect on LinkedIn!
+I'd love to connect and chat about coding, development, or anything tech-related. Feel free to reach out to me on LinkedIn!
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/dmitrij-sazniov/)
