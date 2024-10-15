@@ -1,6 +1,6 @@
 # Hey there, I'm Dmitrij!
 
-I'm a **Full Stack Developer** based in Stockholm, Sweden. Currently, I’m enrolled at Code Institute, where I'm honing my skills by building dynamic websites and functional applications. I love finding creative digital solutions and constantly challenging myself to learn more.
+**Full Stack Developer** based in Stockholm, Sweden. I’m currently enrolled at Code Institute, where I’m passionate about building innovative digital solutions—from dynamic websites to fully functional applications—while always improving my technical skills.
 
 ## About Me
 - I'm on track to complete my **Full Stack Developer** diploma at **Code Institute**.
@@ -8,8 +8,8 @@ I'm a **Full Stack Developer** based in Stockholm, Sweden. Currently, I’m enro
 - I love exploring new technologies and pushing my skills further. Right now, I'm diving deep into **React** to sharpen my front-end development expertise.
 
 ## My Goals
-- **Short-term goal**: Finish my course and build a portfolio that really showcases my abilities through real-world projects.
-- **Long-term goal**: Create meaningful applications and eventually explore the **business side** of tech.
+- **Short-term goal**: Finish my course and build a portfolio that really highlights my ability to create real-world solutions.
+- **Long-term goal**: Become a developer who creates impactful solutions, and maybe even explore opportunities in the business world.
 
 ## Skills
 Here's a glimpse into my technical toolkit:
@@ -38,7 +38,7 @@ Here's a glimpse into my technical toolkit:
 Right now, I'm expanding my skills by focusing on:
 - **Self-improvement books** – I’m always learning ways to grow, both personally and professionally.
 - **Tech videos and tutorials** – Constantly picking up new coding techniques and refining my existing skills.
-- **Physical training** – Keeping both my body and mind sharp with regular workouts and martial arts practice.
+- **Physical training** – Keeping a healthy balance through regular physical training, which helps keep me focused and energized for coding challenges.
 
 ## Recent Projects
 I’m currently wrapping up my **first full-stack project** as part of my studies.
