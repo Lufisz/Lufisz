@@ -46,7 +46,6 @@ I’m currently wrapping up my **first full-stack project** as part of my studie
 - [Employed](https://github.com/Dimmanzo/employed) - A user-friendly web app connecting job seekers with employers - **Python, Django, HTML5, CSS, JavaScript, PostgreSQL**
 - [Smart-Budget](https://github.com/Dimmanzo/smart-budget) - A command-line app that helps users track budgets - **Python, Google Sheets API, HTML5, CSS, JavaScript**
 - [Safari Quiz](https://github.com/Dimmanzo/safari-quiz) - A fun, web-based quiz game testing knowledge of safari animals - **HTML5, CSS, JavaScript**
-- [Culinary Academy](https://github.com/Dimmanzo/culinary-academy) - A fictional cooking school website - **HTML5, CSS, JavaScript**
 
 ## Let's Connect
 I'd love to connect and chat about coding, development, or anything tech-related. Feel free to reach out to me on LinkedIn!
