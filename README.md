@@ -1,6 +1,6 @@
 # Hey there, I'm Dmitrij!
 
-**Full Stack Developer** based in Stockholm, Sweden. 
+**Full Stack Developer** based in Stockholm, Sweden.  
 I’m currently enrolled at Code Institute, where I’m building innovative and dynamic websites while always improving my technical skills.
 
 ## About Me
