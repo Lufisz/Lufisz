@@ -1,15 +1,15 @@
 # Hey there, I'm Dmitrij!
 
-**Full Stack Developer** based in Stockholm, Sweden. I’m currently enrolled at Code Institute, where I’m passionate about building innovative digital solutions—from dynamic websites to fully functional applications—while always improving my technical skills.
+**Full Stack Developer** based in Stockholm, Sweden. I’m currently enrolled at Code Institute, where I’m building innovative and dynamic websites while always improving my technical skills.
 
 ## About Me
 - I'm on track to complete my **Full Stack Developer** diploma at **Code Institute**.
-- When I'm not coding, I enjoy practicing martial arts, DJing, making music, and diving into self-development books.
-- I love exploring new technologies and pushing my skills further. Right now, I'm diving deep into **React** to sharpen my front-end development expertise.
+- When I'm not coding, I enjoy practicing martial arts, DJing and diving into self-development books.
+- I love exploring new technologies and pushing my skills further. Right now, I'm diving deep into **React** to improve my front-end development knowledge.
 
 ## My Goals
 - **Short-term goal**: Finish my course and build a portfolio that really highlights my ability to create real-world solutions.
-- **Long-term goal**: Become a developer who creates impactful solutions, and maybe even explore opportunities in the business world.
+- **Long-term goal**: Become a developer who creates impactful solutions, and explore opportunities in the business world.
 
 ## Skills
 Here's a glimpse into my technical toolkit:
@@ -41,13 +41,13 @@ Right now, I'm expanding my skills by focusing on:
 - **Physical training** – Keeping a healthy balance through regular physical training, which helps keep me focused and energized for coding challenges.
 
 ## Recent Projects
-I’m currently wrapping up my **first full-stack project** as part of my studies.
 
-- [Employed](https://github.com/Dimmanzo/employed) - A user-friendly web app connecting job seekers with employers - **Python, Django, HTML5, CSS, JavaScript, PostgreSQL**
-- [Smart-Budget](https://github.com/Dimmanzo/smart-budget) - A command-line app that helps users track budgets - **Python, Google Sheets API, HTML5, CSS, JavaScript**
-- [Safari Quiz](https://github.com/Dimmanzo/safari-quiz) - A fun, web-based quiz game testing knowledge of safari animals - **HTML5, CSS, JavaScript**
+- [GG-EZ](https://github.com/Dimmanzo/GG-EZ) - Esports tracker where you can follow events, check schedules, and track your favorite teams. - **Under Construction!**
+- [Employed](https://github.com/Dimmanzo/employed) - Web app connecting job seekers with employers - **Python, Django, HTML5, CSS, JavaScript, PostgreSQL**
+- [Smart-Budget](https://github.com/Dimmanzo/smart-budget) - Command-line app that helps users track budgets - **Python, Google Sheets API, HTML5, CSS, JavaScript**
+- [Safari Quiz](https://github.com/Dimmanzo/safari-quiz) - Web-based quiz game testing knowledge of safari animals - **HTML5, CSS, JavaScript**
 
-## Let's Connect
-I'd love to connect and chat about coding, development, or anything tech-related. Feel free to reach out to me on LinkedIn!
+## My links
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/dmitrij-sazniov/)
+- [LinkedIn](https://www.linkedin.com/in/dmitrij-sazniov/)
+- [Personal Website](https://dimmanzo.com/) 
