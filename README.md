@@ -1,54 +1,60 @@
-# Hey there, I'm Dmitrij!
+# Hey, I'm Dmitrij! 👋  
 
-**Full Stack Developer** based in Stockholm, Sweden.  
-I’m currently enrolled at Code Institute, where I’m building innovative and dynamic websites while always improving my technical skills.
+**Junior Full Stack Developer | CTRL + Z Enthusiast**  
 
-## About Me
-- I'm on track to complete my **Full Stack Developer** diploma at **Code Institute**.
-- When I'm not coding, I enjoy practicing martial arts, DJing and diving into self-development books.
-- I love exploring new technologies and pushing my skills further. Right now, I'm diving deep into **React** to improve my front-end development knowledge.
+## About Me  
+- Passionate about **coding**, **problem-solving**, and **always learning something new**.  
+- Really into **cutting-edge tech** and how it’s changing the world.  
+- Love creating things that are both **useful and fun**.  
+- Always up for a challenge and enjoy pushing myself to improve!  
 
-## My Goals
-- **Short-term goal**: Finish my course and build a portfolio that really highlights my ability to create real-world solutions.
-- **Long-term goal**: Become a developer who creates impactful solutions, and explore opportunities in the business world.
+## Goals  
+- **Short-term**: Master the basics, build cool projects, and dive into **AI & automation**.  
+- **Long-term**: Turn ideas into products, and problems into solutions.
 
-## Skills
-Here's a glimpse into my technical toolkit:
-- **Frontend**:
-  ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=FFFFFF)
-  ![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=FFFFFF)
-  ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![Materialize](https://img.shields.io/badge/Materialize%20CSS-EB6E4B.svg?&style=for-the-badge&logo=materializecss&logoColor=FFFFFF)
-  
-- **Backend**:
-  ![Python](https://img.shields.io/badge/Python%20-%23004D7A.svg?&style=for-the-badge&logo=python&logoColor=ffdf76)
-  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+## **Skills**  
 
-- **Tools and Frameworks**:
-  ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)
-  ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+### **💻 Frontend**  
+![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=FFFFFF)
+![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=FFFFFF)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-- **Currently learning**: 
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### **⚙️ Backend**  
+![Python](https://img.shields.io/badge/Python%20-%23004D7A.svg?&style=for-the-badge&logo=python&logoColor=ffdf76)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Lifelong Learner
-Right now, I'm expanding my skills by focusing on:
-- **Self-improvement books** – I’m always learning ways to grow, both personally and professionally.
-- **Tech videos and tutorials** – Constantly picking up new coding techniques and refining my existing skills.
-- **Physical training** – Keeping a healthy balance through regular physical training, which helps keep me focused and energized for coding challenges.
+### **🛠 Tools & Frameworks**  
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-## Recent Projects
+### **🎯 Skills in Progress**  
+![AI & Machine Learning](https://img.shields.io/badge/AI%20%26%20Machine%20Learning-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-- [GG-EZ](https://github.com/Dimmanzo/GG-EZ) - Esports tracker where you can follow events, check schedules, and track your favorite teams. - **Under Construction!**
-- [Employed](https://github.com/Dimmanzo/employed) - Web app connecting job seekers with employers - **Python, Django, HTML5, CSS, JavaScript, PostgreSQL**
-- [Smart-Budget](https://github.com/Dimmanzo/smart-budget) - Command-line app that helps users track budgets - **Python, Google Sheets API, HTML5, CSS, JavaScript**
-- [Safari Quiz](https://github.com/Dimmanzo/safari-quiz) - Web-based quiz game testing knowledge of safari animals - **HTML5, CSS, JavaScript**
+## **⚡ Current Focus**  
+- **Exploring AI** and how it can make cool things smarter.  
+- **Messing around with Linux** to get better at system control.  
+- **Getting my head around C++**, slowly but surely.
+- **Experimenting with React** to make my front-end game stronger. 
+- **Breaking, fixing, and learning along the way.**
 
-## My links
+## **Projects** 🚀  
 
-- [LinkedIn](https://www.linkedin.com/in/dmitrij-sazniov/)
-- [Personal Website](https://dimmanzo.com/) 
+### **Latest Work**  
+*(None yet)*  ⏳ 
+
+### **Study Projects 💡**  
+- [**GG-EZ**](https://github.com/Dimmanzo/GG-EZ) - Esports match tracker (**Python, Django Rest API, React**).  
+- [**Employed**](https://github.com/Dimmanzo/employed) - Jobs Board web app (**Python, Django, PostgreSQL**).  
+- [**Smart-Budget**](https://github.com/Dimmanzo/smart-budget) - CLI tool for managing personal budgets (**Python, Google Sheets API**).  
+- [**Safari Quiz**](https://github.com/Dimmanzo/safari-quiz) - Quiz game (**HTML, CSS, JavaScript**).  
+
+## Connect with Me 📬  
+
+- **LinkedIn:** [linkedin.com/in/dmitrij-sazniov](https://www.linkedin.com/in/dmitrij-sazniov/)  
+- **Personal Website:** *(One day… just not today. 😆)*  
