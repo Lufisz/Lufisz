@@ -58,4 +58,4 @@
 ## Connect with Me 📬  
 
 - **LinkedIn:** [linkedin.com/in/dmitrij-sazniov](https://www.linkedin.com/in/dmitrij-sazniov/)  
-- **Personal Website:** *(One day… just not today. 😆)*  
+- **Personal Website:** [lufisz.github.io/portfolio](https://lufisz.github.io/portfolio/)
