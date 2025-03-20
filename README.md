@@ -57,5 +57,5 @@
 
 ## Connect with Me 📬  
 
-- **LinkedIn:** <a href="https://www.linkedin.com/in/dmitrij-sazniov/" target="_blank" rel="noopener noreferrer">linkedin.com/in/dmitrij-sazniov</a>  
-- **Personal Website:** <a href="https://lufisz.github.io/portfolio/" target="_blank" rel="noopener noreferrer">lufisz.github.io/portfolio</a>
+- **LinkedIn:** [linkedin.com/in/dmitrij-sazniov](https://www.linkedin.com/in/dmitrij-sazniov/)  
+- **Personal Website:** [lufisz.github.io/portfolio](https://lufisz.github.io/portfolio/)
