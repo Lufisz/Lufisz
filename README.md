@@ -1,12 +1,12 @@
 # Hey, I'm Dmitrij! 👋  
 
-**Junior Full Stack Developer | CTRL + Z Enthusiast**  
+**Full Stack Developer | Bringing business ideas to life**  
 
 ## About Me  
-- Passionate about **coding**, **problem-solving**, and **always learning something new**.  
-- Really into **cutting-edge tech** and how it’s changing the world.  
-- Love creating things that are both **useful and fun**.  
-- Always up for a challenge and enjoy pushing myself to improve!  
+- Passionate about **coding**, **solving real problems**, and **learning by doing**  
+- Curious about **new tech** and how it’s shaping the future  
+- Love building things that are **actually useful (and a bit fun too)**  
+- Always chasing the next challenge...
 
 ## Goals  
 - **Short-term**: Master the basics, build cool projects, and dive into **AI & automation**.  
@@ -34,20 +34,18 @@
 
 ### **🎯 Skills in Progress**  
 ![AI & Machine Learning](https://img.shields.io/badge/AI%20%26%20Machine%20Learning-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## **⚡ Current Focus**  
-- **Exploring AI** and how it can make cool things smarter.  
-- **Messing around with Linux** to get better at system control.  
-- **Getting my head around C++**, slowly but surely.
-- **Experimenting with React** to make my front-end game stronger. 
-- **Breaking, fixing, and learning along the way.**
+- **Building websites for real people**, not just tutorials  
+- **Figuring out what it really takes** to grow a brand from scratch  
+- **Making stuff that’s simple, useful, and actually feels good to use**  
+- **Learning as I go, getting better with every project**
 
 ## **Projects** 🚀  
 
 ### **Latest Work**  
-*(None yet)*  ⏳ 
+- [**rubbery.store**](https://rubbery.store/) – Playful e-commerce site for intimate products, built with **Shopify, Liquid, HTML/CSS, JavaScript**.  
+- [**silky-skin.se**](https://silky-skin.se/) – Minimal website for a skincare clinic, built with **Django, HTML, and CSS**.
 
 ### **Study Projects 💡**  
 - [**GG-EZ**](https://github.com/Dimmanzo/GG-EZ) - Esports match tracker (**Python, Django Rest API, React**).  
