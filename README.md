@@ -8,10 +8,6 @@
 - Love building things that are **actually useful (and a bit fun too)**  
 - Always chasing the next challenge...
 
-## Goals  
-- **Short-term**: Master the basics, build cool projects, and dive into **AI & automation**.  
-- **Long-term**: Turn ideas into products, and problems into solutions.
-
 ## **Skills**  
 
 ### **💻 Frontend**  
