@@ -35,12 +35,6 @@
 ### **🎯 Skills in Progress**  
 ![AI & Machine Learning](https://img.shields.io/badge/AI%20%26%20Machine%20Learning-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
 
-## **⚡ Current Focus**  
-- **Building websites for real people**, not just tutorials  
-- **Figuring out what it really takes** to grow a brand from scratch  
-- **Making stuff that’s simple, useful, and actually feels good to use**  
-- **Learning as I go, getting better with every project**
-
 ## **Projects** 🚀  
 
 ### **Latest Work**  
