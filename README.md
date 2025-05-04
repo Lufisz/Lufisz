@@ -52,8 +52,3 @@
 - [**Employed**](https://github.com/Dimmanzo/employed) - Jobs Board web app (**Python, Django, PostgreSQL**).  
 - [**Smart-Budget**](https://github.com/Dimmanzo/smart-budget) - CLI tool for managing personal budgets (**Python, Google Sheets API**).  
 - [**Safari Quiz**](https://github.com/Dimmanzo/safari-quiz) - Quiz game (**HTML, CSS, JavaScript**).  
-
-## Connect with Me 📬  
-
-- **LinkedIn:** [linkedin.com/in/dmitrij-sazniov](https://www.linkedin.com/in/dmitrij-sazniov/)  
-- **Personal Website:** [lufisz.github.io/portfolio](https://lufisz.github.io/portfolio/)
