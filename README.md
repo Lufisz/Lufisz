@@ -34,8 +34,9 @@
 ## **Projects**
 
 ### **Latest Work**  
-- [**rubbery.store**](https://rubbery.store/) – Playful e-commerce site for intimate products, built with **Shopify, Liquid, HTML/CSS, JavaScript**.  
-- [**silky-skin.se**](https://silky-skin.se/) – Minimal website for a skincare clinic, built with **Django, HTML, and CSS**.
+- [**rubbery.store**](https://rubbery.store/) – Playful e-commerce site for intimate products, built with **Shopify, Liquid, HTML/CSS, JavaScript**.
+- [**dariaphoto.se**](https://dariaphoto.se/) – Elegant photography portfolio and booking site **Vigbo, HTML/CSS, JavaScript**.  
+- [**silky-skin.se**](https://silky-skin.se/) – Clean personal website for a laser hair removal specialist, built with **Django, HTML, and CSS**.
 
 ### **Study Projects**  
 - [**GG-EZ**](https://github.com/Dimmanzo/GG-EZ) - Esports match tracker (**Python, Django Rest API, React**).  
