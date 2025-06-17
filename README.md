@@ -39,7 +39,7 @@
 - [**silky-skin.se**](https://silky-skin.se/) – Clean personal website for a laser hair removal specialist, built with **Django, HTML, and CSS**.
 
 ### **Study Projects**  
-- [**GG-EZ**](https://github.com/Dimmanzo/GG-EZ) - Esports match tracker (**Python, Django Rest API, React**).  
-- [**Employed**](https://github.com/Dimmanzo/employed) - Jobs Board web app (**Python, Django, PostgreSQL**).  
-- [**Smart-Budget**](https://github.com/Dimmanzo/smart-budget) - CLI tool for managing personal budgets (**Python, Google Sheets API**).  
-- [**Safari Quiz**](https://github.com/Dimmanzo/safari-quiz) - Quiz game (**HTML, CSS, JavaScript**).  
+- [**GG-EZ**](https://github.com/lufisz/GG-EZ) - Esports match tracker (**Python, Django Rest API, React**).  
+- [**Employed**](https://github.com/lufisz/employed) - Jobs Board web app (**Python, Django, PostgreSQL**).  
+- [**Smart-Budget**](https://github.com/lufisz/smart-budget) - CLI tool for managing personal budgets (**Python, Google Sheets API**).  
+- [**Safari Quiz**](https://github.com/lufisz/safari-quiz) - Quiz game (**HTML, CSS, JavaScript**).  
